@@ -15,7 +15,7 @@ This project lets you upload one or more PDFs, automatically parses them into ch
 Clone this repository and install dependencies:  
 
 ```bash
-git clone https://github.com/your-username/documentation-chatbot.git
+git clone [https://github.com/your-username/documentation-chatbot.git](https://github.com/RishikaParthiban/Documentation-chatbot.git)
 cd documentation-chatbot
 pip install -r requirements.txt
 Or if running on Google Colab, dependencies are installed automatically:
